@@ -5,3 +5,5 @@ The beginnings of documentation is available on the [project wiki](https://githu
 ## Other Projects
 
 * [Bib Fixer](https://github.com/aadl/iii-bibfixer) - PHP lib for interacting with the terminal interface for editing bib and item records
+* [iii Tools](https://github.com/mattgrayson/iiitools) - Python lib for interacting with webpac, specifically the MARC view
+* [iii_marc](https://github.com/mattgrayson/iii_marc) - Ruby lib for interacting with webpac
